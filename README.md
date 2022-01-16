@@ -22,8 +22,8 @@ To run the code perform the following:
 **Install Python 3 and Jupyter Notebook**  
 I'll leave you to do this yourself.
 
-**Install Required Dependencies**
+**Install Required Dependencies**  
 ``pip3 install -r requirements.txt``
 
-Run the Code
+**Run the Code**  
 The [jupyter notebook](hadln.ipynb) should be setup to train the HADLN model with comments describing each step.

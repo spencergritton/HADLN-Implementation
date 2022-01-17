@@ -1,7 +1,7 @@
 # Implementation of [HADLN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8289344/) for Arrhythmia Detection
 
 # Introduction
-This repository contains an implementation of the [Hybrid Attention-Based Deep Learning Network](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8289344/) (HADLN) proposed by Jiang et al. in 2021. HADLN is an exceptionally performing deep neural network focused on the task of heart arrhythmia detection. This work was completed individually as the final project of a graduate course in machine learning (EECS 545) at the University of Michigan in 2021.
+This repository contains an implementation of the [Hybrid Attention-Based Deep Learning Network](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8289344/) (HADLN) proposed by Jiang et al. in 2021. HADLN is an exceptionally performing deep neural network focused on the task of heart arrhythmia detection. This work was completed as the final project of a graduate course in machine learning (EECS 545) at the University of Michigan in 2021.
 
 # Importance
 Electrocardiograms (ECGs) record the voltage across time of electrical activity in a patient’s heart, which assists doctors in diagnosing medical conditions and providing proper treatment. One of the most important applications of the ECG is in detecting irregular heartbeats called arrhythmia, as they can lead to the onset of a stroke, heart failure, or other life-threatening outcomes. Thus, deep learning methods are being explored as a way to rapidly and accurately diagnose heart conditions from ECG data in order to assist medical professionals in saving lives.
